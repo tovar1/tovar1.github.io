@@ -1,0 +1,61 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://zarobok-maneyflight.com" resolutions="1x" timestamp="1505226292796">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3962663792" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="508544_fon_zastavka_uzor_razmytyj_1920x1080_(wwwgdefonru).jpg" crc="4206020002" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dvd004.png" crc="3984810180" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-u686-fr.png" crc="531426516" ref="index"/>
+    <file name="122.png" crc="447142363" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="179780093" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="roogccbcc0q.jpg" crc="73059314" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="25ef0b8049f2d4d7b5b49186b33333ba.png" crc="3869057937" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0qzcp_4i_rq.jpg" crc="515952500" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9i6xh9b3d1m.jpg" crc="3829099023" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pzjynv0-2-i.jpg" crc="4233212212" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="o1ys7ownivs.jpg" crc="131374126" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kdqgfn7h7hy.jpg" crc="334968379" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e8b96eabaaf71988560f0a5ebf22e5c1.png" crc="76089460" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4156776083" seo="true" mt="1505226203164" redirect="true"/>
+</manifest>
